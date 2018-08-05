@@ -1,0 +1,6 @@
+[submodule "comp/copy_touched_files"]
+	path = comp/copy_touched_files
+	url = https://github.com/kubicas/56be2e9a120b48efb4ec0de865256edc/
+[submodule "comp/flying_start"]
+	path = comp/flying_start
+	url = https://github.com/kubicas/04115bebcb0f4fc89529b9ee8d34c913/
